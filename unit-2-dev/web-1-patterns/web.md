@@ -5,4 +5,4 @@ icon:
 ---
 Classic Design Patterns
 
-Classic GoF an Enterprise Patterns
+Classic Gang of Four Design Patterns
